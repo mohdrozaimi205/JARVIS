@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Matahari terbit tembaga di atas garis ufuk -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#D9824B"
+        android:pathData="M34,62 A20,20 0 0,1 74,62 Z" />
+    <path android:strokeColor="#F2B36B" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M28,68 L80,68" />
+    <path android:strokeColor="#D9824B" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M54,30 L54,36 M33,40 L37,44 M75,40 L71,44" />
+</vector>
